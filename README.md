@@ -1,5 +1,5 @@
 # DiscordChatBot
-Chat bot for Discord servers
+This project is a simple chat bot that listens to commands a user inputs, and responds appropriately. It is more of a 'starter' kit to allow easy implementation for others to use in their Discord servers. 
 
 To use, there are a couple of things you need to do first.
 First, create a new bot in Discord Developer Portal. 
