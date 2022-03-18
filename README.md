@@ -24,3 +24,6 @@ Here is an example of the console in an IDE [Eclipse] while running:
 
 
 Thanks for reading.
+
+***IMPORTANT NOTE***
+When importing source files into your IDE / package, remember that you need to implement JDA [Java Discord API]. This is a wrapper for Discord found at https://github.com/DV8FromTheWorld/JDA. Some of the code may be outdated when new JDA versions are released. The version that I used when creating this project was 4.4.0. If you are unsure on how to implement JDA, you can either use dependencies through Maven OR -- if using Eclipse, when creating a new package for the Java files, click 'Libraries', then 'Add External JAR file', and add the JDA jar file from the GitHub link (preferably 4.4.0).
